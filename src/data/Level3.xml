@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<level ID="three" score="200" startPosX="582" startPosY="564" endPosX="393" endPosY="109" bg="images/level3.png">
+
+   <obj_Sprite type="Tree">
+        <x>100</x>
+        <y>440</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>150</x>
+        <y>500</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>80</x>
+        <y>340</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    
+    <obj_Sprite type="Tree">
+        <x>150</x>
+        <y>120</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>507</x>
+        <y>356</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>400</x>
+        <y>435</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    
+    <obj_Sprite type="Tree">
+        <x>467</x>
+        <y>555</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    
+    <obj_Sprite type="Tree">
+        <x>654</x>
+        <y>500</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+  
+    <obj_Sprite type="Kraken">
+        <x>250</x>
+        <y>300</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Beast">
+        <x>150</x>
+        <y>300</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    
+    
+
+   
+            
+</level>

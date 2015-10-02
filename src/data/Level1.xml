@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level ID="one" score="200" startPosX="200" startPosY="300" endPosX="290" endPosY="0" bg="images/level1.png">
+       
+ 
+  
+  <obj_Sprite type="Jack">
+        <x>150</x>
+        <y>200</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+   </obj_Sprite>  
+    
+   
+    <obj_Sprite type="Zelda">
+        <x>450</x>
+        <y>500</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+        <stgy>5</stgy>
+    </obj_Sprite>
+    
+    <obj_Sprite type="Pocky">
+        <x>493</x>
+        <y>234</y>   
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>120</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Chicken" nature="random">
+        <x>20</x>
+        <y>50</y>
+        <total>4</total>
+        <stgy>1</stgy>
+    </obj_Sprite>
+    
+    <obj_Sprite type="Chicken" nature="random">
+        <x>500</x>
+        <y>300</y>
+        <total>4</total>
+        <stgy>1</stgy>
+    </obj_Sprite>
+           
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>180</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>400</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>650</x>
+        <y>330</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+    </obj_Sprite>
+    
+    
+    
+    <obj_Sprite type="House">
+        <x>100</x>
+        <y>100</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+    </obj_Sprite>
+    
+    <obj_Sprite type="House">
+        <x>450</x>
+        <y>150</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+    </obj_Sprite>
+    
+    <obj_Sprite type="LightBase">
+        <x>640</x>
+        <y>30</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+    </obj_Sprite>
+    
+    <obj_Sprite type="LightHouse">
+        <x>640</x>
+        <y>0</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+    </obj_Sprite>
+    
+    
+            
+</level>

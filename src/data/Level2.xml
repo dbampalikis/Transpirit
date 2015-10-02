@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<level ID="two" score="200" startPosX="300" startPosY="560" endPosX="580" endPosY="0" bg="images/level2.png">
+       
+    
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>120</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>300</x>
+        <y>70</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>250</x>
+        <y>96</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>412</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    
+    <obj_Sprite type="Tree">
+        <x>150</x>
+        <y>120</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>100</x>
+        <y>356</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>150</x>
+        <y>435</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>120</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    
+    <obj_Sprite type="Tree">
+        <x>467</x>
+        <y>555</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>700</x>
+        <y>30</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>654</x>
+        <y>500</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Tree">
+        <x>350</x>
+        <y>120</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Chicken">
+        <x>225</x>
+        <y>460</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Chicken">
+        <x>470</x>
+        <y>500</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>    
+    </obj_Sprite>
+    
+    <obj_Sprite type="Bomby">
+        <x>500</x>
+        <y>10</y>
+        <total>5</total>
+        <stgy>2</stgy>
+    </obj_Sprite>
+    
+    <obj_Sprite type="Hexen">
+        <x>10</x>
+        <y>200</y>
+        <dx>0.0f</dx>
+        <dy>0.0f</dy>
+        <stgy>6</stgy>
+    </obj_Sprite> 
+    
+    
+    
+
+   
+            
+</level>
